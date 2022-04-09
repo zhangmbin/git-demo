@@ -16,6 +16,5 @@ Hello Zhangmbin!!!
 Hello Zhangmbin!!!
 Hello Zhangmbin!!!
 Hello Zhangmbin!!!
-Hello Zhangmbin!!!master test
-Hello Zhangmbin!!!master
-Hello Zhangmbin!!!hot-fix test.copy
+Hello Zhangmbin!!!master text
+Hello Zhangmbin!!!hot-fix test
